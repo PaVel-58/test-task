@@ -21,12 +21,7 @@
 		},
 		components: {
 			pTag
-		},
-		// computed() {
-		// 	activeTag(value) {
-
-		// 	}
-		// }
+		}
 	}	
 </script>
 

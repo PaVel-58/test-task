@@ -34,9 +34,6 @@
                 </div>
             </div>
         </pPopup>
-        <!-- <SmallButton text="Налоговый вычет" light /> -->
-        <!-- <Tag price="32 000руб." text="5 лет 5 мес." notActive="true"/>
-        <pPopup label="Текст м" necessarily="false" /> -->
     </div>
 </template>
 
@@ -47,8 +44,6 @@ import pInput from '@/components/pInput'
 import pPopup from '@/components/pPopup'
 import Tags from '@/components/tags'
 import pList from '@/components/pList'
-// import SmallButton from '@/components/smallButton'
-// import Tag from '@/components/tag'
 export default {
     name: 'App',
     components: {
@@ -58,8 +53,6 @@ export default {
         pPopup,
         Tags,
         pList
-        // SmallButton
-        // Tag,
     },
     data() {
         return {
